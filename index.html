@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cash. Digital Day 2025</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="fonts.css">
+    
+</head>
+<body>
+
+    <div class="top-slide">
+        <div class="overlay"></div>
+        <div class="main-content">
+            <div class="main-title">
+                <img src="assets/logo2.png" alt="">
+                <div class="horizontal-line"></div>
+                <p class="dark-text">// 4. JUNI 2025</p>
+            </div>
+            <div class="partner-top">
+                <p>SPONSORED BY:</p>
+                <img src="assets/walnut1.jpg" alt="">
+                <img src="assets/aureus.jpg" alt="">
+                <img src="assets/lv_logo2.png" alt="">
+            </div>
+            <div class="main-text">
+                <p>Freuen Sie sich auf spannende Live-Events für Ihren digitalen Vertriebs-Erfolg.</p> 
+                <br>
+                <p class="dark-text">Erste Infos zu unseren Top-Speakern, Themen und Zeiten folgen demnächst!</p>
+            </div>
+            <button id="redirect-button" onclick="redirectToCash()">
+                <img src="assets/icons/back-white.svg" alt="">
+                CASH-ONLINE.DE
+            </button>
+
+            <script>
+                document.getElementById('redirect-button').addEventListener('click', () => {
+                    window.location.href = 'https://www.cash-online.de';
+                    console.log('test');
+                });
+            </script>
+
+            <img class="down d-none" src="assets/icons/down-white.svg" alt="">
+
+            
+        </div>
+    </div>
+
+    <div class="separator d-none"></div>
+
+    <div class="event-list d-none">
+        <div class="event-content">
+            <div class="event">
+                <div class="event-time">9.00 UHR</div>
+                <div class="event-infos">
+                    <div class="event-title">Wie erreiche ich 1 Million Follower in 10 Sekunden?</div>
+                    <div class="separator" style="height: 2px"></div>
+                    <div class="event-description">
+                        Donald J. Trump gibt populistische Tipps und Tricks, um eine hohe Reichweite auf 
+                        X zu erreichen. Wie kommen Unwahrheiten am besten zum Einsatz?
+                    </div>
+                    <div class="separator" style="height: 2px"></div>
+                    <div class="event-speaker">
+                        <div class="speaker-infos">
+                            <p class="speaker-headline dark-text" style="padding-bottom: 10px;">SPEAKER:</p>
+                            <p class="speaker-headline">Donald J. Trump</p>
+                            <p class="speaker-position dark-text">CEO Unites States of America</p>
+                            <button class="signup">           
+                                JETZT ANMELDEN
+                                <img src="assets/icons/forward-white.svg" alt="">
+                            </button>
+                        </div>
+                        <img class="portrait" src="assets/trump.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
