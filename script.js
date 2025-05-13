@@ -94,8 +94,7 @@ const events = [
         speakerName: 'Frank Rottenbacher',
         speakerPosition: 'Vorstand AfW Bundesverband Finanzdienstleistung e.V. / Going Public Akademie für Finanzberatung AG & Co. KG',
         speakerImage: 'assets/rottenbacher.jpg',
-        link: 'https://cash.clickmeeting.com/der-eu-ai-act-was-kommt-auf-vermittlerinnen-und-vermittler-zu-/register',
-        idd: '15'
+        link: 'https://cash.clickmeeting.com/der-eu-ai-act-was-kommt-auf-vermittlerinnen-und-vermittler-zu-/register'
     },
     {
         time: '10.15 UHR',
@@ -113,8 +112,7 @@ const events = [
         speakerName: 'Frank Neumann',
         speakerPosition: 'Vertriebsdirektor, AUREUS Golddepot GmbH',
         speakerImage: 'assets/neumann.jpg',
-        link: 'https://cash.clickmeeting.com/die-zukunftschance-silber-platin-palladium/register',
-        idd: '25'
+        link: 'https://cash.clickmeeting.com/die-zukunftschance-silber-platin-palladium/register'      
     },
     {
         time: '14.00 UHR',
@@ -123,8 +121,7 @@ const events = [
         speakerName: 'Tanja Schmidt',
         speakerPosition: 'Vertriebsmanagerin LV 1871',
         speakerImage: 'assets/schmidt2.jpg',
-        link: 'https://cash.clickmeeting.com/effizienter-beraten-mit-den-digitalen-tools-der-lv-1871/register',
-        idd: '35'
+        link: 'https://cash.clickmeeting.com/effizienter-beraten-mit-den-digitalen-tools-der-lv-1871/register'    
     }
 ];
 
