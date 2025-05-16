@@ -122,7 +122,7 @@ const events = [
         speakerPosition: 'Vertriebsmanagerin LV 1871',
         speakerImage: 'assets/schmidt2.jpg',
         link: 'https://cash.clickmeeting.com/effizienter-beraten-mit-den-digitalen-tools-der-lv-1871/register',
-        idd: '20'
+        idd: '35'
     }
 ];
 
