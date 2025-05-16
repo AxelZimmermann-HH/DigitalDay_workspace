@@ -116,7 +116,7 @@ const events = [
     },
     {
         time: '14.00 UHR',
-        title: 'Effizienter Beraten - <br>mit den digitalen Tools der LV 1871',
+        title: 'Vorstellung der BU-Produkte der LV 1871 inkl. aktueller Tarifmerkmale in Abgrenzung zum Marktangebot – Zielgruppengerechte Absicherung durch kundengerechte Lösungen für aktuelle Kundenbedarfe innerhalb der BU',
         description: 'Die private Altersvorsorge ist ein komplexes und beratungsintensives Thema, an dem heute kein Weg mehr vorbeiführt. Doch: Kaum jemand möchte mehr als zwei Stunden Zeit investieren, um mit einer Beraterin oder einem Berater über die Absicherung in der Rente zu sprechen. Entsprechend wichtig ist der Einsatz von digitalen Tools im Maklergeschäft. Die Angebotssoftware der LV 1871 ermöglicht unabhängigen Maklerinnen und Maklern einen schnellen und reibungslosen Prozess im Beratungsgespräch. Um die Beratung so effizient wie möglich zu gestalten, wird Tanja Schmidt Vertriebsmanagerin der LV 1871 Ihnen alles Nötige in diesem Webinar mit an die Hand geben.',
         speakerName: 'Tanja Schmidt',
         speakerPosition: 'Vertriebsmanagerin LV 1871',
