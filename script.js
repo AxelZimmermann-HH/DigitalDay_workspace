@@ -94,7 +94,8 @@ const events = [
         speakerName: 'Frank Rottenbacher',
         speakerPosition: 'Vorstand AfW Bundesverband Finanzdienstleistung e.V. / Going Public Akademie für Finanzberatung AG & Co. KG',
         speakerImage: 'assets/rottenbacher.jpg',
-        link: 'https://cash.clickmeeting.com/der-eu-ai-act-was-kommt-auf-vermittlerinnen-und-vermittler-zu-/register'
+        link: 'https://cash.clickmeeting.com/der-eu-ai-act-was-kommt-auf-vermittlerinnen-und-vermittler-zu-/register',
+        idd: '30'
     },
     {
         time: '10.15 UHR',
